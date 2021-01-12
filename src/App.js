@@ -20,7 +20,7 @@ function App() {
         </a>
       </header>
       <MessengerCustomerChat
-        pageId="103837605017893"
+        pageId="1895592307333722"
         appId="2450983945181800"
       />
     </div>
